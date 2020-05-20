@@ -6,7 +6,7 @@
 * [Technologies](#technologies)
 
 ## Zadania
-# Zadania obejmują takie zagadnienia jak:
+### Zadania obejmują takie zagadnienia jak:
 * modyfikacja struktur tabel
 * raportowanie
 * typy danych, deklaracja zmiennych, operatory, instrukcje warunkowe, pętle
